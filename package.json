@@ -16,7 +16,7 @@
     "debug": "^3.1.0",
     "inherits": "^2.0.1",
     "randombytes": "^2.0.5",
-    "readable-stream": "^2.3.2",
+    "readable-stream": "^2.3.4",
     "safe-buffer": "^5.1.1",
     "speedometer": "^1.0.0",
     "unordered-array-remove": "^1.0.2",
