@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "standard": "*",
-    "tape": "^4.0.0",
+    "tape": "^4.9.0",
     "zuul": "^3.2.0"
   },
   "keywords": [
